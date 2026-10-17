@@ -9,7 +9,7 @@ The algorithm schedules a set of independent tasks on a single machine to minimi
 ## Key Features
 
 * Calculates the exact minimum cost (penalty) for a given set of tasks.
-* Reconstructs and outputs the optimal sequence of task execution.
+* Reconstructs and outputs the optimal sequence of task execution..
 * Processes multiple datasets from a configuration file sequentially.
 
 ## Tech Stack
